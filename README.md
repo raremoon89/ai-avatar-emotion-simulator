@@ -43,3 +43,14 @@ uvicorn app.main:app --reload
 ### 프론트엔드 (React)
 cd frontend
 npm run dev -- --host http://localhost:5173/
+
+## 🛠 작업 툴 및 개발 환경
+- IDE: IntelliJ IDEA  
+- 버전 관리: Git + GitHub  
+- 패키지 관리: npm (프론트), conda (AI API)  
+- 백엔드 실행: Gradle, IntelliJ  
+- 프론트 빌드: Vite  
+- 가상환경: Anaconda 환경에서 FastAPI 구동  
+- 데이터베이스: Docker 기반 MySQL  
+- API 테스트: Postman  
+- OS: Windows 11
