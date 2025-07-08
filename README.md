@@ -29,7 +29,7 @@ AI 기반 아바타와 자연스러운 음성/텍스트 인터랙션을 구현�
 
 ## 🚀 실행 방법
 
-###MySQL(Docker 사용)
+### MySQL(Docker 사용)
 docker start ai-emotion-db
 
 ### 백엔드(Spring Boot)
