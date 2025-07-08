@@ -4,11 +4,11 @@ AI 기반 아바타와 자연스러운 음성/텍스트 인터랙션을 구현�
 실시간 음성 합성(TTS), 감정 분석, 립싱크, 표정 연기까지 구현하였습니다.
 
 ## 🧩 프로젝트 구조
-ai-avatar-emotion-simulator/
-├── frontend/ # React 기반 3D 아바타 인터페이스
-├── ai-emotion-api/ # FastAPI 기반 감정 분석 서버
-├── ai-avatar-backend/ # Spring Boot 기반 백엔드 API 서버
-└── README.md # 프로젝트 소개 문서
+📁 ai-avatar-emotion-simulator
+┣ 📁 frontend # React 기반 3D 아바타 인터페이스
+┣ 📁 ai-emotion-api # FastAPI 기반 감정 분석 서버
+┣ 📁 ai-avatar-backend # Spring Boot 기반 백엔드 API 서버
+┗ 📄 README.md
 
 ## ⚙️ 사용 기술
 
